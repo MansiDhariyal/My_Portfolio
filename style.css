@@ -429,15 +429,15 @@ section .title::after {
 }
 
 .skills-content .right .html::before {
-    width: 90%;
+    width: 100%;
 }
 
 .skills-content .right .css::before {
-    width: 60%;
+    width: 90%;
 }
 
 .skills-content .right .js::before {
-    width: 80%;
+    width: 75%;
 }
 
 .skills-content .right .php::before {
@@ -450,7 +450,7 @@ section .title::after {
 
 /* teams section styling */
 .teams .title::after {
-    content: "check github";
+    content: "check now";
 }
 
 .teams .carousel .card {
